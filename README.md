@@ -10,8 +10,9 @@
 ### Week 02
 * Primitive Types ([int](https://github.com/gaoliyao/FinalReview/wiki/Integer), double, [char](https://github.com/gaoliyao/FinalReview/wiki/Character), [String](https://github.com/gaoliyao/FinalReview/wiki/String))
 * Reference Types (new, call functions)
+
 ...Built in type (Character.isDigit())
-* Operators (+, -, *, /, |, &, ^, !, =, ==, >)
+* [Operators](https://github.com/gaoliyao/FinalReview/wiki/Operators)
 * Type Promotion and casting
 
 
