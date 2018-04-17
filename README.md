@@ -15,9 +15,18 @@
 * [Operators](https://github.com/gaoliyao/FinalReview/wiki/Operators)
 * Type Promotion and casting
 
-### Week 02
-* Selection: if, else, else if (remember the )
-* Switch (Remember the BREAK)
+### Week 03 Selection
+* If, else, else if (The brackets!)
+* Switch (The BREAK!)
+
+### Week 04 Repetition
+* while
+* do while
+* for
+* for each [_](https://github.com/gaoliyao/FinalReview/wiki/Repetition)
+
+### Week 05 Array
+* [_]()
 
 
 ### Notes
