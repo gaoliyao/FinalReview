@@ -1,6 +1,6 @@
 # FinalReview
 ### Week 01
-* Von Neumann Architecture
+* Von Neumann Architecture [ ](https://github.com/gaoliyao/FinalReview/wiki/Von-Neumann-Architecture)
 * Memory and Storage Sizes (Byte, KB, MB, GB, TB)
 * Number Systems (Conversion, Overflow)
 * JVM, Compiler
