@@ -25,6 +25,7 @@
 * for each [_](https://github.com/gaoliyao/FinalReview/wiki/Repetition)
 
 ### Week 05 Array
+<img src="https://ds055uzetaobb.cloudfront.net/image_optimizer/7bfe2713ecaf427164d14018608b826ffbeea531.jpg" width="40%">
 * Methods to init an array [_](https://github.com/gaoliyao/FinalReview/wiki/Array-Demo)
 * Get the index
 
