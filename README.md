@@ -8,3 +8,8 @@
 * System Class (System.out.println();)
 
 ### Week 02
+* Primitive Types (int, double, char, String)
+* Reference Types (new, call functions)
+...Built in type (Character.isDigit())
+* Operators (+, -, *, /, |, &, ^, !, =, ==, >)
+* Type Promotion and casting
