@@ -13,3 +13,8 @@
 ...Built in type (Character.isDigit())
 * Operators (+, -, *, /, |, &, ^, !, =, ==, >)
 * Type Promotion and casting
+
+
+
+### Notes
+* [When is a compile-time error and when is a runtime error?](https://stackoverflow.com/a/3179524/6540281)
