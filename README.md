@@ -14,7 +14,7 @@
 * Type Promotion and casting
 
 ### Week 03 Selection
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/CART_tree_titanic_survivors.png" style="width: 80px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/CART_tree_titanic_survivors.png" style="width: 40px;"/>
 * If, else, else if (The brackets!)
 * Switch (The BREAK!)
 
