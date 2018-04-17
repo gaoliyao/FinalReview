@@ -26,7 +26,8 @@
 * for each [_](https://github.com/gaoliyao/FinalReview/wiki/Repetition)
 
 ### Week 05 Array
-* [_]()
+* Methods to init an array [_](https://github.com/gaoliyao/FinalReview/wiki/Array-Demo)
+* Get the index
 
 
 ### Notes
