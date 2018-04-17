@@ -15,6 +15,9 @@
 * [Operators](https://github.com/gaoliyao/FinalReview/wiki/Operators)
 * Type Promotion and casting
 
+### Week 02
+* Selection: if, else, else if (remember the )
+* Switch (Remember the BREAK)
 
 
 ### Notes
