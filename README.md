@@ -30,6 +30,27 @@
 * Methods to init an array [_](https://github.com/gaoliyao/FinalReview/wiki/Array-Demo)
 * Get the index
 
+### Week 06 Class and Method
+* Access Modifiers (public, friend, protected, private)
+* static
+* void, int
+* Constructor
+#### Class
+* Encapsulation
+#### Fields
+* Scope rule
+* Extent
+##### Variables
+* Instance variables
+* Class variables
+* Local variables
+* Parameters
+* 'this'
+#### Methods
+* Overload
+* Signature (name + para_type)
+
+
 
 ### Notes
 * [When is a compile-time error and when is a runtime error?](https://stackoverflow.com/a/3179524/6540281)
